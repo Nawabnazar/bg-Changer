@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-They help me to use how to useState
+
 
 In the project directory, you can run:
 
